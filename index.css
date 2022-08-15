@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 90%;
+
+  background-color: rgb(197, 162, 48);
+  margin: 0 auto;
+  padding: 15px;
+}
+.img1 {
+  width: 90px;
+  height: 100px;
+  border: 3px solid white;
+  border-radius: 50px;
+  float: left;
+}
+.header_bio {
+  padding: 20px;
+  float: left;
+}
+.header_contact {
+  float: right;
+  font-size: large;
+}
+.div-clear {
+  clear: both;
+}
+.hr {
+  border: solid black 3px;
+  margin: 30px auto;
+}
+
+.main_left {
+  width: 30%;
+  float: left;
+}
+.main_right {
+  width: 70%;
+  float: left;
+}
+.hr1 {
+  border: solid black 1px;
+  margin: 30px auto;
+}
+p {
+  margin: 10px;
+}
+.footer {
+  text-align: center;
+  background-color: black;
+  padding: 15px;
+  color: white;
+}
+.footer a,
+p {
+  margin: 10px;
+}
